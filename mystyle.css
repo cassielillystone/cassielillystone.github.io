@@ -40,15 +40,15 @@ h1 {
 .aboutMe {
   font-family: "Verdana", sans-serif;
   position: relative;
-  left:1100px;
-  top:-400px;
+  left:1150px;
+  top:-600px;
 }
 
 .Links {
   font-family: "Verdana", sans-serif;
   position: relative;
-  left:1000px;
-  top:-200px;
+  left:750px;
+  top:--1500px;
 }
 
 ul {
