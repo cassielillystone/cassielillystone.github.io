@@ -30,9 +30,13 @@ h1 {
 
 .profilePic {
   text-align: center;
-  font-family: "Verdana", sans-serif;
   position: relative; 
   top:30px;
+}
+
+.Links {
+  font-family: "Verdana", sans-serif;
+  text-align: center;
 }
 
 .Navigation {
