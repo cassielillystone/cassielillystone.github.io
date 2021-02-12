@@ -1,5 +1,5 @@
 body {
-  background-color: Maroon;
+  background-color: LightCyan;
   margin-left: auto;
   margin-right: auto;
   margin-top: auto;
@@ -20,8 +20,8 @@ h1 {
 
 .Titles {
   text-align: center;
-  font-family: "Lucida Handwriting", sans-serif;
-  font-size:large;
+  font-family: "Trebuchet MS", sans-serif;
+  font-size:x-large;
   
   
 }
@@ -29,7 +29,7 @@ h1 {
 .profilePic {
   text-align: center;
   position:relative; 
-  top:50px;
+  top:30px;
   
   
 }
