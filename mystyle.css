@@ -20,7 +20,7 @@ h1 {
 
 .Titles {
   text-align: center;
-  font-family: "Trebuchet MS", sans-serif;
+  font-family: "Cutive", sans-serif;
   font-size:x-large;
 }
 
@@ -34,11 +34,11 @@ h1 {
   position: relative;
   left: 300px;
   top: -500px;
-  font-family: "Trebuchet MS", sans-serif;
+  font-family: "Verdana", sans-serif;
 }
 
 .aboutMe {
-  font-family: "Trebuchet MS", sans-serif;
+  font-family: "Verdana", sans-serif;
   position: relative;
   left: 1500px;
   top: -300px;
