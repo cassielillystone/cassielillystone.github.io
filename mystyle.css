@@ -19,7 +19,7 @@ h1 {
 }
 
 .Titles {
-  text-align: center;
+  text-align:center;
   font-family: "Kumbh Sans", sans-serif;
   font-size:x-large;
 }
@@ -27,26 +27,26 @@ h1 {
 .profilePic {
   text-align: center;
   position: relative; 
-  top: 30px;
+  top:30px;
 }
 
 .Navigation {
   position: relative;
-  left: 250px;
-  top: -200px;
+  left:250px;
+  top:-200px;
   font-family: "Verdana", sans-serif;
 }
 
 .aboutMe {
   font-family: "Verdana", sans-serif;
   position: relative;
-  left: 1200px;
-  top: -500px;
+  left:1200px;
+  top:-500px;
 }
 
 .Links {
   font-family: "Verdana", sans-serif;
   position: relative;
-  left: 700px;
-  top: -500px;
+  left:700px;
+  top:-500px;
 }
