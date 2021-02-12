@@ -31,9 +31,9 @@ h1 {
 }
 
 .Navigation {
-  position: absolute;
-  left: 200px;
-  top: 1000px;
+  position: relative;
+  left: 300px;
+  top: -500px;
   font-family: "Trebuchet MS", sans-serif;
 }
 
