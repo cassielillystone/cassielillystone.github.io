@@ -1,5 +1,5 @@
 body {
-  background-color: LightGrey;
+  background-color: Maroon;
   margin-left: auto;
   margin-right: auto;
   margin-top: auto;
@@ -20,7 +20,8 @@ h1 {
 
 .Titles {
   text-align: center;
-  font-family: "Monserrat", "Garamond", sans-serif;
+  font-family: "Lucida Handwriting", sans-serif;
+  font-size:large;
   
   
 }
