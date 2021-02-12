@@ -36,3 +36,11 @@ h1 {
   top: 1000px;
   font-family: "Trebuchet MS", sans-serif;
 }
+
+.aboutMe {
+  font-family: "Trebuchet MS", sans-serif;
+  position: relative;
+  left: 1500px;
+  top: -300px;
+}
+
