@@ -20,7 +20,7 @@ h1 {
 
 .Titles {
   text-align:center;
-  font-family: "Merienda", sans-serif;
+  font-family: "Kumbh Sans", sans-serif;
   font-size:x-large;
   border: 1px solid white;
   background-color: white;
@@ -37,7 +37,7 @@ h1 {
 .Navigation {
   position: relative;
   left:350px;
-  top:-300px;
+  top:-400px;
   font-family: "Verdana", sans-serif;
 }
 
@@ -45,7 +45,7 @@ h1 {
   font-family: "Verdana", sans-serif;
   position: relative;
   left:1150px;
-  top:-700px;
+  top:-500px;
 }
 
 ul {
@@ -54,7 +54,7 @@ ul {
   padding: 0;
   background-color: #f1f1f1;
   border: 1px solid #555;
-  width: 220px;
+  width: 250px;
   font-size:small;
 }
 
