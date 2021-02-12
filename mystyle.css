@@ -32,15 +32,15 @@ h1 {
 
 .Navigation {
   position: relative;
-  left: 300px;
-  top: -500px;
+  left: 250px;
+  top: -200px;
   font-family: "Verdana", sans-serif;
 }
 
 .aboutMe {
   font-family: "Verdana", sans-serif;
   position: relative;
-  left: 1500px;
-  top: -300px;
+  left: 1200px;
+  top: -500px;
 }
 
