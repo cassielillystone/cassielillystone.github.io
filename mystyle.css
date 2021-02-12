@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-  color: white;
+  color: RoyalBlue;
   margin-left: 20px;
 }
 
@@ -22,14 +22,17 @@ h1 {
   text-align: center;
   font-family: "Trebuchet MS", sans-serif;
   font-size:x-large;
-  
-  
 }
 
 .profilePic {
   text-align: center;
-  position:relative; 
-  top:30px;
-  
-  
+  position: relative; 
+  top: 30px;
+}
+
+.Navigation {
+  position: absolute;
+  left: -200px;
+  top: 500px;
+  font-family: "Trebuchet MS", sans-serif;
 }
