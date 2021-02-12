@@ -27,6 +27,8 @@ h1 {
 .profilePic {
   text-align: center;
   font-family: "Verdana", sans-serif;
+  position: relative; 
+  top:30px;
 }
 
 .Navigation {
