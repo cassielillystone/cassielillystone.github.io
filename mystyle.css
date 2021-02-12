@@ -36,8 +36,8 @@ h1 {
 
 .Navigation {
   position: relative;
-  left:350px;
-  top:-400px;
+  left:500px;
+  top:-300px;
   font-family: "Verdana", sans-serif;
 }
 
@@ -45,7 +45,7 @@ h1 {
   font-family: "Verdana", sans-serif;
   position: relative;
   left:1150px;
-  top:-500px;
+  top:-600px;
 }
 
 ul {
@@ -54,7 +54,7 @@ ul {
   padding: 0;
   background-color: #f1f1f1;
   border: 1px solid #555;
-  width: 250px;
+  width: 270px;
   font-size:small;
 }
 
