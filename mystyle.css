@@ -41,6 +41,7 @@ h1 {
   left:500px;
   top:-350px;
   font-family: "Verdana", sans-serif;
+  max-width: 1950px;
 }
 
 .aboutMe {
