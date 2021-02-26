@@ -1,9 +1,5 @@
 body {
   background-color: LightCyan;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: auto;
-  margin-bottom: auto;
   width: 2000px; 
 }
 
@@ -46,8 +42,8 @@ h1 {
 .aboutMe {
   font-family: "Verdana", sans-serif;
   position: relative;
-  left:1130px;
-  top:-650px;
+  left:1200px;
+  top:-620px;
   width: 600px; 
 }
 
