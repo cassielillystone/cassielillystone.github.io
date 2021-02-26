@@ -1,11 +1,11 @@
 body {
-  background-color: LightCyan;
+  background-color: FloralWhite;
   width: 100%; 
   max-width: 1950px;
 }
 
 h1 {
-  color: RoyalBlue;
+  color: FloralWhite;
   margin-left: 20px;
 }
 
@@ -20,9 +20,10 @@ h1 {
   text-align:center;
   font-family: "Kumbh Sans", sans-serif;
   font-size:x-large;
-  border: 1px solid white;
-  background-color: white;
+  border: 1px solid DarkTurquoise;
+  background-color: DarkTurquoise;
   width: 1950px; 
+  color: FloralWhite;
   
 }
 
