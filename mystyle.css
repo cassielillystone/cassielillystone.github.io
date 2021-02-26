@@ -2,8 +2,8 @@ body {
   background-color: White; 
 }
 
-div.wrap {
-  width: 1950px;
+.wrap {
+  max-width: 1950px;
 }
 
 h1 {
