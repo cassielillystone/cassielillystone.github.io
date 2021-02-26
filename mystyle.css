@@ -24,6 +24,7 @@ h1 {
   font-size:x-large;
   border: 1px solid white;
   background-color: white;
+  width: 1000px; 
   
 }
 
@@ -46,6 +47,7 @@ h1 {
   position: relative;
   left:1130px;
   top:-650px;
+  width: 400px; 
 }
 
 ul {
