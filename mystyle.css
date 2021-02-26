@@ -44,10 +44,11 @@ h1 {
 .aboutMe {
   font-family: "Verdana", sans-serif;
   position: relative;
-  left: 1200px;
-  top:-625px;
+  left: 1100px;
+  top:-725px;
   width: 600px; 
   max-width: 500px; 
+  padding: 12px 0px;
 }
 
 ul {
