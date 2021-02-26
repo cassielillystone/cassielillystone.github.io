@@ -4,6 +4,10 @@ body {
   max-width: 1950px;
 }
 
+div.wrap {
+  max-width: 1950px;
+}
+
 h1 {
   color: White;
   margin-left: 20px;
