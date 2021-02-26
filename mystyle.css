@@ -47,6 +47,7 @@ h1 {
   left: 1200px;
   top:-625px;
   width: 600px; 
+  max-width: 500px; 
 }
 
 ul {
