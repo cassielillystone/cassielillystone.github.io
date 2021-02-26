@@ -1,11 +1,11 @@
 body {
-  background-color: FloralWhite;
+  background-color: White;
   width: 100%; 
   max-width: 1950px;
 }
 
 h1 {
-  color: FloralWhite;
+  color: White;
   margin-left: 20px;
 }
 
@@ -20,10 +20,10 @@ h1 {
   text-align:center;
   font-family: "Kumbh Sans", sans-serif;
   font-size:x-large;
-  border: 1px solid DarkTurquoise;
-  background-color: DarkTurquoise;
+  border: 1px solid LightGray;
+  background-color: LightGray;
   width: 1950px; 
-  color: FloralWhite;
+  color: White;
   
 }
 
@@ -70,7 +70,7 @@ li a {
 
 .active {
   background-color: #4CAF50;
-  color: white;
+  color: White;
 }
 
 li {
